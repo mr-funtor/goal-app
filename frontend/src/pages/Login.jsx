@@ -29,7 +29,7 @@ const Login=()=>{
             <h1>
                 <FaSignInAlt /> Login
             </h1>
-            <p>Please create an account</p>
+            <p>Please sign in</p>
         </section>
         
         <section className="form">
